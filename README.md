@@ -2,7 +2,7 @@
 Steps to Run FaceLog Application
 # Front-End
 1. Clone the Repository in your local machine.
-2. Open the Repository in your IDE platform (Preffered:Visual Studio)
+2. Open the Repository in your IDE platform (Prefered:Visual Studio)
 3. Install Dependencies by running **"npm install"** in terminal
 4. For starting the server: **"npm start"**
 # Back-End
